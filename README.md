@@ -1,4 +1,4 @@
-![fujisan-wapuu](https://raw.githubusercontent.com/takeshi81/fujisan-wapuu/master/fujisan-wapuu.svg)
+![fujisan-wapuu](https://raw.githubusercontent.com/takeshi81/fujisan-wapuu/master/fujisan-wapuu.png)
 
 # fujisan-wapuu
 
