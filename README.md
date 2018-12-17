@@ -2,8 +2,12 @@
 
 # fujisan-wapuu
 
-Wapuu with Mt. Fuji. Made for WordBench Shizuoka (and this incoming community).
+Wapuu with Mt. Fuji, made for Shizuoka WordPress Meetup.
 
 ## ふじさんわぷー
 
-WordBenchしずおか用につくりました。GPL2+の範囲でご自由にお使いください。
+静岡 WordPress Meetup 用につくりました。
+
+## License / ライセンス
+
+GPL2 or later
